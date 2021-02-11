@@ -1,5 +1,5 @@
 body {
-  font-family: "Yusei Magic", sans-serif;
+  font-family: "Montserrat", sans-serif;
   background: #a6c3f8f3;
 }
 .cam {
@@ -14,19 +14,20 @@ body {
   margin-bottom: 50px;
 }
 .footer_div h4 {
-  background: white;
+  background: rgb(209, 204, 204);
+  border: 3px black solid;
   border-radius: 10px;
   padding: 5px;
   box-shadow: 5px 5px 18px white;
 }
 .footer_div img {
-  width: 60px;
+  width: 70px;
 }
 .footer {
   position: fixed;
   bottom: 0;
   width: 100%;
-  line-height: 3;
+  line-height: 2.7;
   text-align: center;
 }
 #logo {
